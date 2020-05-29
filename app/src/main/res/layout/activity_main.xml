@@ -8,12 +8,14 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/editText1"/>
+        android:id="@+id/editText1"
+        android:inputType="numberDecimal"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/editText2"/>
+        android:id="@+id/editText2"
+        android:inputType="numberDecimal"/>
 
     <Button
         android:layout_width="match_parent"
